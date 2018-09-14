@@ -1,1 +1,1 @@
-[]
+[{"id":"9e035596.31f658","type":"tab","label":"Flow 1","disabled":false,"info":""},{"id":"3a46214.e3b53de","type":"inject","z":"9e035596.31f658","name":"teste","topic":"","payload":"Helly World","payloadType":"str","repeat":"","crontab":"","once":false,"onceDelay":0.1,"x":890,"y":160,"wires":[["beec117d.5b99f"]]},{"id":"beec117d.5b99f","type":"debug","z":"9e035596.31f658","name":"","active":true,"tosidebar":true,"console":false,"tostatus":false,"complete":"false","x":1100,"y":100,"wires":[]}]
